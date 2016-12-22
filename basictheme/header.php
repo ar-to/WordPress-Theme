@@ -9,4 +9,4 @@
 <?php wp_head();?> <!--allows plugins api hooks & function.php scripts to work-->
 </head>
 <body>
-  <h1>Header</h1>
+  <h1 class="text-center">Header</h1>
