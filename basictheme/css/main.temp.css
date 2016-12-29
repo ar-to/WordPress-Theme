@@ -1,0 +1,37 @@
+/*nav temp*/
+.site-nav ul{
+  list-style: none;
+}
+.site-nav ul li{
+  float: left;
+}
+.site-nav ul li a:link{
+  display: block;
+  padding: 20px 18px;
+}
+/*landing nav*/
+.site-nav-landing ul{
+  list-style: none;
+}
+.site-nav-landing ul li{
+  float: left;
+}
+.site-nav-landing ul li a:link{
+  display: block;
+  padding: 20px 40px;
+}
+/*feature image*/
+.feature-image{
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+}
+.test-class{
+  background-color: #444;
+}
+/*feature image for landing page*/
+.feature-image-landing{
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}

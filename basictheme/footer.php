@@ -1,4 +1,5 @@
 <footer>
+  <?php wp_nav_menu( array( 'theme_location' => 'footer-menu' ) ); ?>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
